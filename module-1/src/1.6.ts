@@ -1,3 +1,5 @@
+{
+
 // learning function
 
 // normal function
@@ -27,3 +29,7 @@ const arr : number[] = [1, 2, 5, 67]
 
 const newArray : number[] = arr.map((elem: number) => elem*elem)
 console.log(newArray);
+
+
+
+}
